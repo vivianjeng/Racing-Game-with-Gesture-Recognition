@@ -1,0 +1,1314 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.041 seconds
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vivian\Documents\Karting racing\download\kart racing2_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.084204 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a68 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.935335 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 11318.
+Total: 4.725087 ms (FindLiveObjects: 1.551461 ms CreateObjectMapping: 0.648865 ms MarkObjects: 2.405592 ms  DeleteObjects: 0.116316 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "car_3/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "car_3 (1)/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 22.534681 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11318.
+Total: 4.733069 ms (FindLiveObjects: 1.570277 ms CreateObjectMapping: 0.577022 ms MarkObjects: 2.505944 ms  DeleteObjects: 0.075263 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "car_3 (1)/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionExit (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at grassSlower.OnCollisionEnter (UnityEngine.Collision other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "car_3/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+

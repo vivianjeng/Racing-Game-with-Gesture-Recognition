@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\grassSlower.cs">
+    <Files>
+      <File FileName="Assets\Scripts\wheelController.cs" Line="87" Column="32" />
+      <File FileName="Assets\Scripts\carController2.cs" Line="87" Column="32" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="62" Column="3" />
+      <File FileName="Assets\Scripts\CountDown.cs" Line="30" Column="24" />
+      <File FileName="Assets\Scripts\grassSlower.cs" Line="20" Column="1" />
+      <File FileName="Assets\itemController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StartLineController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ButtonStart.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

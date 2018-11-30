@@ -1,0 +1,55 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  2.996 seconds
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vivian\Documents\Karting racing\kart racing_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 29.317551 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 398 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 53.800537 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 11056.
+Total: 26.667351 ms (FindLiveObjects: 1.274924 ms CreateObjectMapping: 0.516013 ms MarkObjects: 24.489260 ms  DeleteObjects: 0.102062 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 61.521927 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11056.
+Total: 6.116328 ms (FindLiveObjects: 2.129624 ms CreateObjectMapping: 0.948210 ms MarkObjects: 2.947834 ms  DeleteObjects: 0.085527 ms)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "car_3/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.076643 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 11056.
+Total: 6.021108 ms (FindLiveObjects: 2.720332 ms CreateObjectMapping: 0.663690 ms MarkObjects: 2.556690 ms  DeleteObjects: 0.072983 ms)
+

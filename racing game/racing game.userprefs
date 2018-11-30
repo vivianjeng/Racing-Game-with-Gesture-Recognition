@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Simple Motorcycle\Scripts\MotorcycleUserControl.cs">
+    <Files>
+      <File FileName="Assets\Simple Motorcycle\Scripts\MotorcycleUserControl.cs" Line="79" Column="11" />
+      <File FileName="Assets\Simple Motorcycle\Scripts\MotorcycleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="21" Column="24" />
+      <File FileName="Assets\Scripts\CountDown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\carController.cs" Line="1" Column="1" />
+      <File FileName="Assets\itemController.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
